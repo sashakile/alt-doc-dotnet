@@ -2,10 +2,8 @@
 _layout: landing
 ---
 
-# This is the **HOMEPAGE**.
+# AltDoc DotNet
 
-Refer to [Markdown](http://daringfireball.net/projects/markdown/) for how to write markdown files.
+Documentación alternativa ([alt-doc](https://docs.saxa.xyz)) de cosas relacionadas con el ecosistema de
+Dotnet.
 
-## Quick Start Notes:
-
-1. Add images to the *images* folder if the file is referencing an image.

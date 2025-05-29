@@ -39,7 +39,7 @@
       "_appName": "alt-doc",
       "_appTitle": "alt-doc",
       "_enableSearch": true,
-      "pdf": true
+      "pdf": false
     }
   }
 }
